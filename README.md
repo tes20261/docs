@@ -58,6 +58,7 @@ Livros:
 
 Vídeos:
 
+- [GDLK](https://www.netflix.com/br/title/81019087)
 - [Game Makers' Toolkit](https://www.youtube.com/@GMTK)
 
 Modelos:
